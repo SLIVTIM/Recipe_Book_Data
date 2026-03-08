@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "title": "Classic Pancakes",
+        "category": "Breakfast",
+        "time": "20",
+        "difficulty": "easy",
+        "emoji": "🥞",
+        "description": "Fluffy, golden pancakes that are perfect for a lazy morning.",
+        "ingredients": [
+            "1 cup flour", 
+            "1 cup milk", 
+            "1 egg", 
+            "2 tbsp butter", 
+            "1 tbsp sugar", 
+            "1 tsp baking powder", 
+            "Pinch of salt"
+        ],
+        "steps": [
+            "Mix flour, sugar, baking powder, and salt in a large bowl.",
+            "In another bowl, whisk together milk, egg, and melted butter.",
+            "Pour the wet ingredients into the dry and stir until just combined (lumps are okay!).",
+            "Heat a pan over medium heat and lightly grease it.",
+            "Pour about ¼ cup of batter per pancake. Cook until bubbles form, then flip.",
+            "Serve warm with maple syrup and enjoy!"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Spaghetti Aglio e Olio",
+        "category": "Dinner",
+        "time": "25 min",
+        "difficulty": "Easy",
+        "emoji": "🍝",
+        "description": "A simple yet elegant Italian pasta with garlic and olive oil.",
+        "ingredients": ["400g spaghetti", "6 cloves garlic", "½ cup olive oil", "Red chili flakes", "Fresh parsley", "Salt & pepper", "Parmesan (optional)"],
+        "steps": [
+        "Cook spaghetti in salted boiling water until al dente.",
+        "While pasta cooks, thinly slice the garlic cloves.",
+        "Heat olive oil in a large pan over medium-low heat.",
+        "Add garlic and chili flakes. Cook until garlic is golden (don't burn it!).",
+        "Reserve 1 cup of pasta water, then drain the pasta.",
+        "Add pasta to the pan with garlic oil, splash in some pasta water, toss well.",
+        "Season, top with parsley and Parmesan, serve immediately."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Avocado Toast",
+        "category": "Breakfast",
+        "time": "10 min",
+        "difficulty": "Easy",
+        "emoji": "🥑",
+        "description": "The ultimate quick breakfast — creamy, crunchy, and satisfying.",
+        "ingredients": ["2 slices sourdough bread", "1 ripe avocado", "Lemon juice", "Salt & pepper", "Red pepper flakes", "2 eggs (optional)", "Everything bagel seasoning"],
+        "steps": [
+        "Toast your bread to golden perfection.",
+        "Halve the avocado, remove the pit, and scoop the flesh into a bowl.",
+        "Mash with a fork, add lemon juice, salt, and pepper.",
+        "Spread the mashed avocado generously on the toast.",
+        "Optional: top with a fried or poached egg.",
+        "Sprinkle red pepper flakes and everything bagel seasoning. Serve!"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Chicken Stir Fry",
+        "category": "Dinner",
+        "time": "30 min",
+        "difficulty": "Medium",
+        "emoji": "🍗",
+        "description": "A quick, colorful stir fry packed with veggies and savory sauce.",
+        "ingredients": ["2 chicken breasts", "2 cups mixed vegetables", "3 tbsp soy sauce", "1 tbsp sesame oil", "2 cloves garlic", "1 tsp ginger", "Cornstarch", "Cooked rice to serve"],
+        "steps": [
+        "Slice chicken into thin strips and toss with a pinch of cornstarch.",
+        "Mix soy sauce, sesame oil, garlic, and ginger in a small bowl.",
+        "Heat oil in a wok or large pan over high heat.",
+        "Cook chicken until browned, about 5-6 minutes. Set aside.",
+        "Add vegetables and stir fry for 3-4 minutes until tender-crisp.",
+        "Return chicken to the pan, pour over the sauce, toss everything together.",
+        "Serve hot over rice."
+        ]
+    }, 
+    {
+        "id": 5,
+        "title": "Chocolate Mug Cake",
+        "category": "Dessert",
+        "time": "5 min",
+        "difficulty": "Easy",
+        "emoji": "🍫",
+        "description": "A rich, fudgy cake made in a mug in under 5 minutes.",
+        "ingredients": ["4 tbsp flour", "4 tbsp sugar", "2 tbsp cocoa powder", "1 egg", "3 tbsp milk", "3 tbsp vegetable oil", "Pinch of salt", "Splash of vanilla"],
+        "steps": [
+        "Add flour, sugar, cocoa powder, and salt to a large mug. Mix well.",
+        "Add the egg and stir it in.",
+        "Pour in the milk, oil, and vanilla. Mix until smooth.",
+        "Microwave on high for 60-90 seconds.",
+        "The cake is done when it pulls away from the sides. Don't overcook!",
+        "Let cool for 1 minute, then enjoy straight from the mug."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Caesar Salad",
+        "category": "Lunch",
+        "time": "15 min",
+        "difficulty": "Easy",
+        "emoji": "🥗",
+        "description": "Crispy romaine, tangy dressing, and crunchy croutons.",
+        "ingredients": ["1 head romaine lettuce", "½ cup Caesar dressing", "½ cup croutons", "Parmesan cheese", "Black pepper", "Lemon juice"],
+        "steps": [
+        "Wash and dry the romaine lettuce, then chop into bite-sized pieces.",
+        "Place lettuce in a large bowl.",
+        "Drizzle Caesar dressing over the lettuce and toss to coat evenly.",
+        "Add croutons and grated Parmesan.",
+        "Squeeze a little lemon juice over the top.",
+        "Season with black pepper and serve immediately."
+        ]
+    }
+]

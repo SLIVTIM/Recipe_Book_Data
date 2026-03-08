@@ -116,5 +116,77 @@
         "Squeeze a little lemon juice over the top.",
         "Season with black pepper and serve immediately."
         ]
+    },
+    {
+        "id": 7,
+        "title": "Berry Smoothie Bowl",
+        "category": "Breakfast",
+        "time": "5",
+        "difficulty": "Easy",
+        "emoji": "🍓",
+        "description": "A vibrant, refreshing bowl of blended fruits topped with crunchy goodness.",
+        "ingredients": ["1 cup frozen mixed berries", "1 ripe banana", "½ cup almond milk", "1 tbsp chia seeds", "Granola for topping", "Fresh blueberries", "Honey drizzle"],
+        "steps": [
+            "Place frozen berries, banana, and almond milk into a blender.",
+            "Blend on high until completely smooth and thick.",
+            "Pour the mixture into a shallow bowl.",
+            "Top with a handful of granola and fresh blueberries.",
+            "Sprinkle with chia seeds and drizzle honey over the top.",
+            "Enjoy immediately before it melts!"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Margherita Pizza",
+        "category": "Dinner",
+        "time": "45",
+        "difficulty": "Medium",
+        "emoji": "🍕",
+        "description": "The classic Italian pizza with fresh basil, mozzarella, and tomato sauce.",
+        "ingredients": ["Pizza dough", "½ cup tomato sauce", "200g fresh mozzarella", "Fresh basil leaves", "1 tbsp olive oil", "Salt", "Flour for dusting"],
+        "steps": [
+            "Preheat your oven to its highest setting (usually 250°C/500°F).",
+            "On a floured surface, stretch the dough into a 12-inch circle.",
+            "Spread a thin layer of tomato sauce over the dough.",
+            "Tear the mozzarella into chunks and distribute evenly.",
+            "Bake for 8-10 minutes until the crust is golden and cheese is bubbly.",
+            "Remove from oven, top with fresh basil and a drizzle of olive oil."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Quinoa Buddha Bowl",
+        "category": "Lunch",
+        "time": "25",
+        "difficulty": "Medium",
+        "emoji": "🥣",
+        "description": "A nutritious and colorful bowl packed with protein and fresh veggies.",
+        "ingredients": ["1 cup cooked quinoa", "½ cup chickpeas", "1 small sweet potato, cubed", "Handful of spinach", "½ cucumber, sliced", "Tahini dressing", "Lemon wedge"],
+        "steps": [
+            "Roast sweet potato cubes with olive oil at 200°C for 20 minutes.",
+            "Place a base of spinach in a large bowl.",
+            "Add the cooked quinoa, chickpeas, cucumber, and roasted sweet potatoes.",
+            "Drizzle generously with tahini dressing.",
+            "Squeeze fresh lemon juice over the top.",
+            "Toss lightly and serve warm or cold."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Classic Beef Burger",
+        "category": "Dinner",
+        "time": "20",
+        "difficulty": "Easy",
+        "emoji": "🍔",
+        "description": "A juicy, homemade beef patty served in a toasted brioche bun.",
+        "ingredients": ["200g ground beef", "1 brioche bun", "1 slice cheddar cheese", "Lettuce leaf", "2 slices tomato", "Burger sauce", "Salt & pepper"],
+        "steps": [
+            "Shape the beef into a flat patty, slightly wider than the bun.",
+            "Season both sides generously with salt and pepper.",
+            "Grill or pan-fry over high heat for 3-4 minutes per side.",
+            "Place cheese on the patty in the last minute of cooking to melt.",
+            "Toast the bun halves until lightly browned.",
+            "Assemble with sauce, lettuce, tomato, and the juicy patty."
+        ]
     }
 ]
